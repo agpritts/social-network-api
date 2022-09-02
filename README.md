@@ -12,7 +12,6 @@
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
-  * [Screenshots](#screenshots)
   
   ## Installation
   Download the code and run `npm init -y`, `npm i -y`, and `npm start` from the command line at the root of the application
@@ -37,5 +36,4 @@
   :octocat: [GitHub](https://github.com/agpritts)<br/>
   <br/>
   :email: [Email](mailto:agpritts@gmail.com)<br/>
-  
-  ## Screenshots
+ 
